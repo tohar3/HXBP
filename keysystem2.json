@@ -1,1 +1,95 @@
-
+{
+  "users": [
+    {
+      "username": "player1",
+      "password": "mypass123",
+      "hwid": "20cf8cc5",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player2",
+      "password": "secret99",
+      "hwid": "924b3ffa",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player3",
+      "password": "hunter22",
+      "hwid": "248f6497",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player4",
+      "password": "blade456",
+      "hwid": "92e925cc",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player5",
+      "password": "storm789",
+      "hwid": "ac3166d5",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player6",
+      "password": "ghost321",
+      "hwid": "c3d4e5f6",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player7",
+      "password": "viper654",
+      "hwid": "d4e5f6a7",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player8",
+      "password": "rogue987",
+      "hwid": "e5f6a7b8",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player9",
+      "password": "cobra111",
+      "hwid": "f6a7b8c9",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player10",
+      "password": "titan222",
+      "hwid": "a7b8c9d0",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player11",
+      "password": "nova333",
+      "hwid": "b8c9d0e1",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player12",
+      "password": "apex444",
+      "hwid": "c9d0e1f2",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    },
+    {
+      "username": "player13",
+      "password": "zero555",
+      "hwid": "d0e1f2a3",
+      "status": "active",
+      "expiry": "2029-03-15T00:00:00Z"
+    }
+  ]
+}
