@@ -1,0 +1,42 @@
+NULLTRAIL — Patch Notes
+
+v2.0
+- Complete rewrite, new loader UI
+- Frosted glass login page
+- Action rows with notifications panel
+- Patch notes fetched live from GitHub
+- Fixed visible check for all builds
+- ESP wall detection improved
+- Exploit pages split: Self / Weapons / Misc
+- Web menu fully synced with all features
+- Fixed LAN IP detection for web menu
+- Removed: Desync, Fake Lag, Bubbles
+
+v1.9
+- Added Spectator Alert with cone check
+- Added health-colored ESP boxes
+- Added radar minimap
+- Added auto-friend keybind
+- Silent aim + triggerbot visible checks fixed
+- b3323 name fallback improved
+
+v1.8
+- Web menu added (phone access via LAN)
+- Anti AFK + Join/Leave notifications
+- Panic key and Fix Car keybind added
+- ESP performance optimized
+- Skeleton fix for invisible players
+
+v1.7
+- Aimbot velocity prediction added
+- Smooth preview in aimbot settings
+- Entity list race condition fixed
+- Loading player misclassification fixed
+- b3323 build support added
+
+v1.6
+- Initial release
+- ESP, Aimbot, Silent Aim, Triggerbot
+- Player + Vehicle ESP
+- God Mode, NoClip, Fast Run
+- Config import/export
