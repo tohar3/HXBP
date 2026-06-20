@@ -78,7 +78,6 @@
       "status": "active",
       "expiry": "2026-06-18T00:00:00Z"
     },
-
     {
       "discord_id": "965364788756631563",
       "hwid": "5e34801b",
@@ -95,7 +94,7 @@
       "discord_id": "835075639304126496",
       "hwid": "a02bf795",
       "status": "active",
-     "expiry": "2026-08-01T00:00:00Z"
+      "expiry": "2026-08-01T00:00:00Z"
     },
     {
       "discord_id": "446729465314279444",
@@ -106,8 +105,44 @@
     {
       "discord_id": "1486058645912289450",
       "hwid": "9a03c9fc",
-     "status": "active",
-       "expiry": "2035-03-15T00:00:00Z"
+      "status": "active",
+      "expiry": "2035-03-15T00:00:00Z"
+    },
+    {
+      "discord_id": "1093471275189555211",
+      "hwid": "48bcf7bb",
+      "status": "active",
+      "expiry": "2035-03-15T00:00:00Z"
+    },
+    {
+      "discord_id": "",
+      "hwid": "",
+      "status": "active",
+      "expiry": "2035-03-15T00:00:00Z"
+    },
+    {
+      "discord_id": "",
+      "hwid": "",
+      "status": "active",
+      "expiry": "2035-03-15T00:00:00Z"
+    },
+    {
+      "discord_id": "",
+      "hwid": "",
+      "status": "active",
+      "expiry": "2035-03-15T00:00:00Z"
+    },
+    {
+      "discord_id": "",
+      "hwid": "",
+      "status": "active",
+      "expiry": "2035-03-15T00:00:00Z"
+    },
+    {
+      "discord_id": "",
+      "hwid": "",
+      "status": "active",
+      "expiry": "2035-03-15T00:00:00Z"
     }
   ]
 }
